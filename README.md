@@ -1,12 +1,12 @@
 # <p align=center>Hi there, I'm Ritika Muruganandam</p>
-## <p align=center>A passionate Full Stack (MERN Stack) Developer from India. <br/><br/> 
+## <p align=center>Full Stack and Agentic AI Developer <br/><br/> 
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=30&duration=4000&pause=9000&color=39FF14&center=true&vCenter=true&width=300&lines=About+Me+%F0%9F%8C%9F" alt="About Me" />
 </p>
 <br/>
 
-I don’t just build websites , I engineer experiences. From crafting dynamic user interfaces with React to designing structured REST APIs with Node.js and Express, I create full-stack applications that are fast, scalable, and built for real-world impact.
+I don’t just build websites, I engineer intelligent experiences at the intersection of Full Stack development and Agentic AI. From crafting dynamic React interfaces to designing robust Node.js and Express APIs, I build scalable products that are smart, fast, and built for real-world impact.
 
 
 
@@ -17,7 +17,10 @@ I don’t just build websites , I engineer experiences. From crafting dynamic us
 </p>
 
 <br/>
-As a Full-Stack Developer, I bridge the gap between elegant UI and robust server-side architecture. While I love crafting responsive front-ends, I’m at my best when I’m "under the hood"—architecting clean RESTful APIs and optimizing database performance within the MERN stack.
+As a Full-Stack Developer, I bridge elegant UI with robust backend architecture. While I enjoy crafting responsive front-ends, I’m most at home under the hood designing clean RESTful APIs, optimizing database performance, and building with Agentic AI to create smarter, action-oriented products.
+
+I can make pixels look pretty, but my favorite love language is clean backend logic.
+I don’t just talk to AI, I put it to work like a reliable teammate on deploy day.
 
 Currently, I’m bridging the gap between web dev and Artificial Intelligence, exploring how to make apps smarter, not just faster.
 
@@ -54,6 +57,15 @@ Currently, I’m bridging the gap between web dev and Artificial Intelligence, e
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=47A248&center=true&vCenter=true&width=200&lines=Database" alt="Database" />
   <br/>
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00C2FF&center=true&vCenter=true&width=220&lines=AI+%26+Agentic+Stack" alt="AI and Agentic Stack" />
+  <br/>
+  <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/LangSmith-0A0A0A?style=for-the-badge&logo=langchain&logoColor=white" alt="LangSmith" />
+  <img src="https://img.shields.io/badge/RAG-2E8B57?style=for-the-badge&logo=semanticweb&logoColor=white" alt="RAG" />
+  <img src="https://img.shields.io/badge/ChromaDB-5B3DF5?style=for-the-badge&logo=databricks&logoColor=white" alt="ChromaDB" />
 </p>
 
 <p align="center">
