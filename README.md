@@ -51,6 +51,8 @@ Currently, I’m bridging the gap between web dev and Artificial Intelligence, e
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=339933&center=true&vCenter=true&width=200&lines=Backend+Tech" alt="Backend Tech" />
   <br/>
   <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
+  <br/>
+  <img src="https://img.shields.io/badge/REST%20APIs-0F172A?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs" />
 </p>
 
 <p align="center">
