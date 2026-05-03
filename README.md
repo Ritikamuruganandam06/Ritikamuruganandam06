@@ -283,24 +283,9 @@ Every repo here was me going - I want to build this myself and see how it actual
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="50%">
-
-
-
-<img src="https://github-readme-stats.vercel.app/api?username=Ritikamuruganandam06&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=e8912d&icon_color=e8912d&text_color=c9d1d9" alt="GitHub Stats" />
-
-</td>
-<td align="center" width="50%">
-
 **🔥 Contribution Streak**
 
 <img src="https://streak-stats.demolab.com/?user=Ritikamuruganandam06&hide_border=true&background=0D1117&stroke=30363d&ring=e8912d&fire=e8912d&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=e8912d&sideLabels=e8912d&dates=8b949e" alt="Contribution Streak" />
-
-</td>
-</tr>
-</table>
 
 <br/>
 
@@ -308,13 +293,7 @@ Every repo here was me going - I want to build this myself and see how it actual
 
 <img src="https://github-profile-trophy.vercel.app/?username=Ritikamuruganandam06&theme=onedark&no-frame=false&no-bg=true&margin-w=4&row=2&column=7" alt="GitHub Trophies" />
 
-<br/>
 
-**🌟 Most Used Languages**
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritikamuruganandam06&layout=compact&hide_border=true&bg_color=0d1117&title_color=e8912d&text_color=c9d1d9&langs_count=8&card_width=400" alt="Top Languages" />
-
-<br/>
 
 **📈 Contribution Graph**
 
