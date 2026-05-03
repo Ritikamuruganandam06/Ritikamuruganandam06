@@ -285,19 +285,20 @@ Every repo here was me going - I want to build this myself and see how it actual
 
 ## Achievements
 
-1. **CDAC – National Urban IoT Challenge (Smart City 2.0)** 
-- Runner-Up 
-- Real-Time IoT Dashboard 
-- **₹25,000 cash prize**
-
-2. **IntelliMobility Ideathon – ARAI**
-- 2nd Runner-Up
-- Active Safety for Two-Wheelers using Advanced Rider Assistance
-- **₹25,000 cash prize**
-3. **Neonexus '25**
-- Ballari Institute of Technology
-- Top 5 (5th Place)
-- Pedestrian Detection System
+<table>
+  <tr>
+    <td>🥈</td>
+    <td><strong>CDAC – National Urban IoT Challenge (Smart City 2.0)</strong><br/>Runner-Up &nbsp;·&nbsp; Real-Time IoT Dashboard &nbsp;·&nbsp; <strong>₹25,000 cash prize</strong></td>
+  </tr>
+  <tr>
+    <td>🥉</td>
+    <td><strong>IntelliMobility Ideathon – ARAI</strong><br/>2nd Runner-Up &nbsp;·&nbsp; Active Safety for Two-Wheelers using Advanced Rider Assistance &nbsp;·&nbsp; <strong>₹10,000 cash prize</strong></td>
+  </tr>
+  <tr>
+    <td>🏅</td>
+    <td><strong>Neonexus '25 – Ballari Institute of Technology</strong><br/>Top 5 (5th Place) &nbsp;·&nbsp; Pedestrian Detection System</td>
+  </tr>
+</table>
 
 ---
 
