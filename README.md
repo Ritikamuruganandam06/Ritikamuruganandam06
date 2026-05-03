@@ -22,7 +22,11 @@
 
 ```yaml
 # ═══════════════════════════════════════════════════════════
-#  SYSTEM PROMPT — agent/ritika-muruganandam v2.0
+#  SYSTEM PROMPT — agent/ritika-muruganandam
+#  model: full-stack-agentic-v2.0
+#  last_deployed: 2025
+#  context_window: 3y
+#  hallucination_rate: 0.0
 # ═══════════════════════════════════════════════════════════
 
 role: Full Stack Developer × Agentic AI Engineer
@@ -37,9 +41,24 @@ skills:
 tools: >
   [CrewAI, LangChain, LlamaIndex, ChromaDB, OpenAI, Claude, Gemini, Azure OpenAI, Tavily]
 
+available_functions:
+  - build_agent(framework: CrewAI | LangChain, memory: bool, streaming: bool) -> Pipeline
+  - query_db(nl_input: str, schema: dict) -> SQL + StreamedResult
+  - ship_feature(stack: fullstack, deadline: tight) -> PR
+
+training_data:
+  - national hackathons × 2
+  - open source contributions (LlamaIndex)
+  - shipped products in production
+
+constraints:
+  - no isolated demos without real data
+  - no prompting without architecture
+  - no shipping without understanding the system
+
 open_source: >
-  LlamaIndex - OpenAILikeResponses class · Responses API + Chat Completions for 
-  3rd party provider that is compatable with OpenAI API (PR #21246 open)
+  LlamaIndex - OpenAILikeResponses class · Responses API + Chat Completions for
+  3rd party provider compatible with OpenAI API (PR #21246 open)
 
 temperature: 0.9  # creative but grounded
 
