@@ -158,16 +158,20 @@ Ability to build real-time systems and make complex hardware integrations easy t
 
 ---
 
-## Open Source
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:39FF14&height=50&section=header&text=🔓%20Open%20Source%20Contribution&fontSize=20&fontColor=ffffff&fontAlignY=65&animation=fadeIn" />
 
-> 🔓 **LlamaIndex** &nbsp;·&nbsp; `feat: OpenAILikeResponses integration` &nbsp;·&nbsp; [View PR #21246](https://github.com/run-llama/llama_index/pull/21246) &nbsp;·&nbsp; ![open](https://img.shields.io/badge/PR-open-green?style=flat-square)
->
-> LlamaIndex's `llama-index-llms-openai-like` package only supported Chat Completions — not OpenAI's newer **Responses API**. I added `OpenAILikeResponses` to close that gap.
->
-> - New class `OpenAILikeResponses` — configurable context window, tokenizer, and metadata
-> - Exported alongside the existing `OpenAILike` with proper package wiring
->
-> *Not a docs fix. It's a real integration — I read an existing codebase, understood the abstraction layer, and shipped something that's actually useful to other developers.*
+### LlamaIndex
+
+`feat: OpenAILikeResponses integration` &nbsp;·&nbsp; [View PR #21246](https://github.com/run-llama/llama_index/pull/21246) &nbsp;·&nbsp; ![open](https://img.shields.io/badge/PR-open-green?style=flat-square)
+
+LlamaIndex's `llama-index-llms-openai-like` package only supported Chat Completions - not OpenAI's newer **Responses API**. I added `OpenAILikeResponses` to close that gap.
+
+- New class `OpenAILikeResponses`- configurable context window, tokenizer, and metadata
+- Exported alongside the existing `OpenAILike` with proper package wiring
+
+**Why this matters**
+
+Not a docs fix. It's a real integration - I read an existing codebase, understood the abstraction layer, and shipped something that's actually useful to other developers.
 
 ---
 
