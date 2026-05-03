@@ -287,7 +287,7 @@ Every repo here was me going - I want to build this myself and see how it actual
 <tr>
 <td align="center" width="50%">
 
-**📊 GitHub Analytics**
+
 
 <img src="https://github-readme-stats.vercel.app/api?username=Ritikamuruganandam06&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=e8912d&icon_color=e8912d&text_color=c9d1d9" alt="GitHub Stats" />
 
