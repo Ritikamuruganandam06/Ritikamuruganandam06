@@ -79,7 +79,16 @@ status: actively building | open to AI, backend, and full-stack roles
 
 Repo: [Architecture & Demo](https://github.com/Ritikamuruganandam06/multi-agent-research-engine-crewai)
 
-`CrewAI` `FastAPI` `Python` `React` `Vite` `Tavily` `litellm` `SSE` `Gemini` `Azure OpenAI`
+<img src="https://img.shields.io/badge/CrewAI-1a1a2e?style=flat-square" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+<img src="https://img.shields.io/badge/Tavily-00B4D8?style=flat-square" />
+<img src="https://img.shields.io/badge/litellm-0A0A0A?style=flat-square" />
+<img src="https://img.shields.io/badge/SSE-E34F26?style=flat-square" />
+<img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/Azure_OpenAI-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
 
 A real **four-stage specialist-agent pipeline** built with **CrewAI** - query in, fact-checked cited report out, streamed live.
 
@@ -100,7 +109,17 @@ Orchestration over prompting, each agent has a clear role and hands off delibera
 
 Repo: [Architecture & Demo](https://github.com/Ritikamuruganandam06/query-genie)
 
-`LangChain` `FastAPI` `Python` `PostgreSQL` `React 19` `Vite` `SSE` `OpenAI` `Claude` `Gemini` `Azure OpenAI`
+<img src="https://img.shields.io/badge/LangChain-FF6B6B?style=flat-square" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+<img src="https://img.shields.io/badge/SSE-E34F26?style=flat-square" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Claude_(Anthropic)-D97706?style=flat-square" />
+<img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/Azure_OpenAI-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
 
 **Not a chatbot. An agent.** Talk to your PostgreSQL database in natural language - it plans, writes SQL, executes it, and streams everything back to the UI live.
 
@@ -120,7 +139,13 @@ Tools, memory, live database, streaming UI - all wired together, not an isolated
 Visit: [Personal Blog](https://ritika.xyz/blogs)  
 Repo: [Architecture & Demo](https://github.com/Ritikamuruganandam06/portfolio-ritika)
 
-`React` `TypeScript` `Vite` `Tailwind CSS` `shadcn/ui` `Markdown` `YAML Frontmatter`
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square" />
+<img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white" />
+<img src="https://img.shields.io/badge/YAML_Frontmatter-CB171E?style=flat-square" />
 
 Not just a portfolio - a **custom blog engine** built from scratch with no CMS, database, or third-party content tools.
 
@@ -140,7 +165,11 @@ I build what I need instead of relying on existing tools, with full ownership of
 
 Repo: [Architecture & Demo](https://github.com/Ritikamuruganandam06/CDAC-IOT-WEB-DASHBOARD)
 
-`React` `Node.js` `Express` `MySQL` `Socket.IO`
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white" />
 
 A real-time **IoT dashboard** that simplifies connecting hardware devices to a web interface, making it easier for beginners to build and monitor IoT projects.
 
