@@ -169,7 +169,7 @@ LlamaIndex's `llama-index-llms-openai-like` package only supported Chat Completi
 - New class `OpenAILikeResponses`- configurable context window, tokenizer, and metadata
 - Exported alongside the existing `OpenAILike` with proper package wiring
 
-**Why this matters**
+
 
 Not a docs fix. It's a real integration - I read an existing codebase, understood the abstraction layer, and shipped something that's actually useful to other developers.
 
