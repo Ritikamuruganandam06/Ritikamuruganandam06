@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=0:0d1117,100:39FF14&height=200&section=header&text=Ritika%20Muruganandam&fontSize=44&fontColor=ffffff&fontAlign=38&fontAlignY=45&desc=Agentic%20AI%20Engineer%20%7C%20Full%20Stack%20Developer&descAlign=38&descAlignY=62&descSize=17&descColor=0d1117&animation=fadeIn&reversal=false" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=0d1117&height=200&section=header&text=Ritika%20Muruganandam&fontSize=44&fontColor=ffffff&fontAlign=38&fontAlignY=45&desc=Agentic%20AI%20Engineer%20%7C%20Full%20Stack%20Developer&descAlign=38&descAlignY=62&descSize=17&descColor=0d1117&animation=fadeIn&reversal=false" />
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -42,7 +42,7 @@ skills:
   - full-stack: react · express.js · node.js · postgreSQL · mongodb · jwt · fastapi
 
 tools: >
-  [CrewAI, LangChain, LlamaIndex, ChromaDB, OpenAI, Claude, Gemini, Azure OpenAI, Tavily]
+  [CrewAI, LangChain, LlamaIndex,ChromaDB, OpenAI, Claude, Gemini, Azure OpenAI, Tavily]
 
 available_functions:
   - build_agent(framework: CrewAI | LangChain, memory: bool, streaming: bool) -> Pipeline
