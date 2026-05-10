@@ -92,7 +92,7 @@ A real **four-stage specialist-agent pipeline** built with **CrewAI** - query in
 
 **What it signals**
 
-Orchestration over prompting, each agent has a clear role and hands off deliberately.
+Orchestration over promptings, each agent has a clear role and hands off deliberately.
 
 ---
 
